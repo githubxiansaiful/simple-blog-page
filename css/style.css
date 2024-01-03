@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+a {
+    text-decoration: none;
+    color: #45aaf2;
+}
+.container {
+    max-width: 1080px;
+    width: 80%;
+    position: relative;
+}
