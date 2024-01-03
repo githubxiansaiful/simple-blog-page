@@ -11,4 +11,47 @@ a {
     max-width: 1080px;
     width: 80%;
     position: relative;
+    margin: auto;
+    overflow: hidden;
+}
+footer {
+    background: #252633;
+    color: #fff;
+    display: block;
+    overflow: hidden;
+}
+.footer-column {
+    width: 23.5%;
+    float: left;
+    overflow: hidden;
+    margin-right: 2%;
+}
+.footer-column:last-child {
+    margin-right: 0;
+}
+.copyright-text {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: block;
+    overflow: hidden;
+    border-top: 1px solid #ffffff31;
+    max-width: 1080px;
+    width: 80%;
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 30px;
+}
+.copyright-text p {
+    color: #fff;
+}
+.footer-column h3 {
+    color: #fff;
+}
+.footer-column P {
+    color: #fff;
+}
+.footer-column a {
+    color: #fff;
 }
