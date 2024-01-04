@@ -240,3 +240,11 @@ input.sub-btn {
     background: #252532;
     color: #fff;
 }
+.blog-tags a {
+    display: inline-block;
+    border-radius: 5px;
+    padding: 5px;
+    background: #f1f1f1;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
